@@ -10,3 +10,5 @@ fahrenheit.oninput = () => {
     let output = ((parseFloat(fahrenheit.value) - 32) * 5) / 9;   	
     celsius.value = parseFloat(output.toFixed(2)); 
 }; 
+
+// David J. Friend (2022) 
