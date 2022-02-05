@@ -2,12 +2,16 @@
 
 A collection of single-page web applications built with HTML, CSS and JavaScript...
 
-#### Temperature Converter
+### Temperature Converter
 
-An application for converting degrees celsius to degrees fahrenheit and vice versa. 
+An application for converting degrees celsius to degrees fahrenheit and vice versa.
 
-#### Digital Clock
+![Temperature Converter Screenshot](/screenshots/temperature-converter-screenshot.jpg) 
+
+### Digital Clock
 
 A 24-hour digital clock with a modern visual look. 
+
+![Digital Clock Screenshot](/screenshots/digital-clock-screenshot.jpg)
 
 **More projects coming soon!** 
