@@ -25,4 +25,4 @@ const clock = setInterval(function time() {
 	second.textContent = sec; 
 }, 1000); 
 
-// David J. Friend (2022) 
+// David Friend (2022) 

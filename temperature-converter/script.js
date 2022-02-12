@@ -11,4 +11,4 @@ fahrenheit.oninput = () => {
     celsius.value = parseFloat(output.toFixed(2)); 
 }; 
 
-// David J. Friend (2022) 
+// David Friend (2022) 

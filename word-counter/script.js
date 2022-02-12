@@ -11,4 +11,4 @@ inputTextArea.addEventListener("input", () => {
 	wordCount.textContent = txt.split(/\s+/).filter((item) => item).length;  
 });
 
-// David J.Friend (2022) 
+// David Friend (2022) 
